@@ -31,12 +31,7 @@ sidebar:
 career-profile:
     title: Perfil Profesional
     summary: |
-      Resume tu carrera aquí lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Puedes [descargar esta plantilla gratuita de currículum/CV aquí]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Segundo párrafo si es necesario.
+    Soy un profesional apasionado por el desarrollo de software, con experiencia como QA tester semi senior especializado en sistemas internos y externos tanto web como móviles en una empresa financiera. Mi carrera se centra en asegurar la calidad y funcionalidad de los sistemas críticos, colaborando estrechamente con equipos de desarrollo para identificar y corregir defectos. Poseo habilidades sólidas en pruebas funcionales y no funcionales, así como en la automatización de pruebas para mejorar la eficiencia y la cobertura del proceso de QA. Además, tengo un compromiso constante con la mejora continua y la entrega de productos de software de alta calidad.
 education:
     title: Educación
     info:
@@ -48,9 +43,25 @@ education:
 experiences:
     title: Experiencias
     info:
-      - role: Desarrollador Semisenior
+       - role: Desarrollador Semisenior
         time: 2021 - Presente
         company: CoopMego
+       description:
+        - Pruebas unitarias, Pruebas Funcionales y pruebas no funcionales.
+        - Pruebas de integración, pruebas de aceptación.
+        - Pruebas de caja negra y caja blanca.
+        - Pruebas retroactivas
+        Herramientas utilizadas:
+
+       - Desarrollador en java, C#, .net, node js, docker, React.
+      -  Conocimiento en bases de datos.
+       - Docker
+
+      - role: Desarrollador 
+        time: 2018-2020
+        company: Farmacias Pichincha
+        -.net
+        - React
 
 
 
