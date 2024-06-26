@@ -6,7 +6,7 @@ sidebar:
     # Información del perfil
     name: Jordy Celi
     tagline: Desarrollador de sistemas
-    avatar: profile.png  # coloque una imagen de 100x100 dentro de la carpeta /assets/images/ y proporcione el nombre del archivo aquí
+    #avatar: profile.png  # coloque una imagen de 100x100 dentro de la carpeta /assets/images/ y proporcione el nombre del archivo aquí
 
     # Enlaces de la barra lateral
     email: alexanderceli96qgmail.com
@@ -36,7 +36,7 @@ education:
     title: Educación
     info:
       - degree: Ingeniero en sistemas informáticos
-        university: Universidad de Londres
+        university: Universidad Tecnica Particular de Loja
         time: 2016-2021
       
 
@@ -47,21 +47,21 @@ experiences:
         time: 2021 - Presente
         company: CoopMego
        description:
-        - Pruebas unitarias, Pruebas Funcionales y pruebas no funcionales.
-        - Pruebas de integración, pruebas de aceptación.
-        - Pruebas de caja negra y caja blanca.
-        - Pruebas retroactivas
+        Pruebas unitarias, Pruebas Funcionales y pruebas no funcionales.
+       Pruebas de integración, pruebas de aceptación.
+        Pruebas de caja negra y caja blanca.
+         Pruebas retroactivas
         Herramientas utilizadas:
 
-       - Desarrollador en java, C#, .net, node js, docker, React.
-      -  Conocimiento en bases de datos.
-       - Docker
+        Desarrollador en java, C#, .net, node js, docker, React.
+      Conocimiento en bases de datos.
+       Docker
 
-      - role: Desarrollador 
+      role: Desarrollador 
         time: 2018-2020
         company: Farmacias Pichincha
-        -.net
-        - React
+        .net
+        React
 
 
 
