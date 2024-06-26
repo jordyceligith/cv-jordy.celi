@@ -1,18 +1,18 @@
 sidebar:
     position: right  # posición de la barra lateral: izquierda o derecha
-    about: True  # establecer en False o comentar la línea si desea eliminar "¿Cómo usar?" en la barra lateral
-    education: True  # establecer en False si desea la educación en la sección principal en lugar de en la barra lateral
+    about: true  # establecer en false o comentar la línea si desea eliminar "¿Cómo usar?" en la barra lateral
+    education: true  # establecer en false si desea la educación en la sección principal en lugar de en la barra lateral
 
     # Información del perfil
     name: Jordy Celi
     tagline: Desarrollador de sistemas
-    #avatar: profile.png  # coloque una imagen de 100x100 dentro de la carpeta /assets/images/ y proporcione el nombre del archivo aquí
+    # avatar: profile.png  # coloque una imagen de 100x100 dentro de la carpeta /assets/images/ y proporcione el nombre del archivo aquí
 
     # Enlaces de la barra lateral
     email: alexanderceli96qgmail.com
     phone: 039437933
     timezone: Quito/Bogotá
-    citizenship: 
+    citizenship: Ecuador
     website: alexanderceli96  # no agregar http://
     linkedin: Jordy Celi Mancheno
     github: jordyceligith
@@ -31,56 +31,48 @@ sidebar:
 career-profile:
     title: Perfil Profesional
     summary: |
-    Soy un profesional apasionado por el desarrollo de software, con experiencia como QA tester semi senior especializado en sistemas internos y externos tanto web como móviles en una empresa financiera. Mi carrera se centra en asegurar la calidad y funcionalidad de los sistemas críticos, colaborando estrechamente con equipos de desarrollo para identificar y corregir defectos. Poseo habilidades sólidas en pruebas funcionales y no funcionales, así como en la automatización de pruebas para mejorar la eficiencia y la cobertura del proceso de QA. Además, tengo un compromiso constante con la mejora continua y la entrega de productos de software de alta calidad.
+      Soy un profesional apasionado por el desarrollo de software, con experiencia como QA tester semi senior especializado en sistemas internos y externos tanto web como móviles en una empresa financiera. Mi carrera se centra en asegurar la calidad y funcionalidad de los sistemas críticos, colaborando estrechamente con equipos de desarrollo para identificar y corregir defectos. Poseo habilidades sólidas en pruebas funcionales y no funcionales, así como en la automatización de pruebas para mejorar la eficiencia y la cobertura del proceso de QA. Además, tengo un compromiso constante con la mejora continua y la entrega de productos de software de alta calidad.
+
 education:
     title: Educación
     info:
       - degree: Ingeniero en sistemas informáticos
-        university: Universidad Tecnica Particular de Loja
-        time: 2016-2021
-      
+        university: Universidad Técnica Particular de Loja
+        time: 2016 - 2021
 
 experiences:
     title: Experiencias
     info:
-       - role: Desarrollador Semisenior
+      - role: Desarrollador Semisenior
         time: 2021 - Presente
         company: CoopMego
-       description:
-        Pruebas unitarias, Pruebas Funcionales y pruebas no funcionales.
-       Pruebas de integración, pruebas de aceptación.
-        Pruebas de caja negra y caja blanca.
-         Pruebas retroactivas
-        Herramientas utilizadas:
+        description: |
+          Pruebas unitarias, Pruebas Funcionales y pruebas no funcionales.
+          Pruebas de integración, pruebas de aceptación.
+          Pruebas de caja negra y caja blanca.
+          Herramientas utilizadas: Java, C#, .NET, Node.js, Docker, React.
+          Conocimiento en bases de datos.
 
-        Desarrollador en java, C#, .net, node js, docker, React.
-      Conocimiento en bases de datos.
-       Docker
-
-      role: Desarrollador 
-        time: 2018-2020
+      - role: Desarrollador 
+        time: 2018 - 2020
         company: Farmacias Pichincha
-        .net
-        React
-
-
+        description: |
+          Desarrollador en .NET y React.
 
 projects:
     title: Proyectos
     
     assignments:
       - title: Sistema Farmacias Pichincha
-        link: "#hook"
-        tagline: "sistema de gestión de pedidos"
+        link: "#"
+        tagline: "Sistema de gestión de pedidos"
 
       - title: Chatbot
         link: "#"
-        tagline: "Chatbot con botpress con envio de alertas"
-
-
+        tagline: "Chatbot con Botpress con envío de alertas"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Habilidades y Proficiencia
 
     toolset:
       - name: Python & Django
@@ -102,4 +94,4 @@ skills:
         level: 60%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Diseñado con <i class="fas fa-heart"></i> por <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
